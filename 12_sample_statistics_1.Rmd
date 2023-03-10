@@ -482,7 +482,7 @@ This probability $P(X > 66000) = 35.5\%$ is applicable to only one
 person, while the previous $P(\bar{X} > 66000) = 10.6\%$ is our
 inference about the salary of a group of employees.
 
-## Exercise #6
+## Task 6
 
 It is recommended that backpacks weight less than ¼th of your body
 weight. The average backpack with four textbooks and school supplies
